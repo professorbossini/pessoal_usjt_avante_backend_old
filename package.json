@@ -32,9 +32,6 @@
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
     "underscore": "^1.13.1",
-    "typescript": "^4.4.3"
-  },
-  "devDependencies": {
     "@nestjs/cli": "^8.0.0",
     "@nestjs/schematics": "^8.0.0",
     "@nestjs/testing": "^8.0.0",
