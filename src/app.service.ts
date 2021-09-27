@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import dadosUtil from '../dados/presenca/processador.utils'
+import dadosUtil from './dados/presenca/processador.utils'
 
 @Injectable()
 export class AppService {
